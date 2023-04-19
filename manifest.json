@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "OpenAI Usage Pricing",
+  "version": "0.1",
+  "description": "Shows the ",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content-script.js"]
+    }
+  ]
+}
