@@ -7,6 +7,10 @@ This Chrome extension enhances the OpenAI usage dashboard by providing estimated
 - Automatically adds estimated costs to the usage dashboard for each model
 - Updates estimated costs whenever the usage dashboard content changes
 
+<p align="center">
+  <img src="example.png" alt="Example">
+</p>
+
 ## Installation
 
 1. Download or clone this repository to your local machine
